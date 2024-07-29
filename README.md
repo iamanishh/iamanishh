@@ -3,7 +3,7 @@
 
 
 
-I'm a Software Engineer with an experience in Backend development. I have almost 2 years of experience in software development where I have worked on various project related to Java, Spring Boot, React and databases like MySQL, MongoDB.
+I’m a Backend Software Engineer with nearly two years of experience. I’ve developed a variety of projects using Java, Spring Boot, React, and databases like MySQL and MongoDB. I enjoy solving complex problems and building efficient solutions.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamanishh/)](https://www.linkedin.com/in/iamanishh/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamanish__)](https://twitter.com/iamanish__)
@@ -20,25 +20,32 @@ I'm a Software Engineer with an experience in Backend development. I have almost
 
 - ⚡ Fun fact **I think I have a good sense of design **
 
+
+
 ---
 ## 🛠️ Technologies & Tools
 <div style="margin-bottom: 20px;">
-  <h3>Frontend</h3>
+  <h3>Languages and Library</h3>
   <span>
+   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+    
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+    
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge"/>
   </span>
 </div>
 
 <div style="margin-bottom: 20px;">
-  <h3>Backend</h3>
+  <h3>Libraries and Framework </h3>
   <span>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-    <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
+   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge"/>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express Badge"/>
+   
   </span>
 </div>
 
@@ -52,23 +59,18 @@ I'm a Software Engineer with an experience in Backend development. I have almost
 </div>
 
 <div style="margin-bottom: 20px;">
-  <h3>DevOps</h3>
-  <span>
-    <img src="https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
-    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-    <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"/>
-  </span>
-</div>
-
-<div style="margin-bottom: 20px;">
-  <h3>Tools</h3>
+  <h3>Tools and Technologies</h3>
   <span>
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
   </span>
 </div>
+
+
 
 
 ---
