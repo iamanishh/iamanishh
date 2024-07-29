@@ -3,38 +3,38 @@
 
 
 
+I'm a Software Engineer with an experience in Backend development. I have almost 2 years of experience in software development where I have worked on various project related to Java, Spring Boot, React and databases like MySQL, MongoDB.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamanishh/)](https://www.linkedin.com/in/iamanishh/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamanish__)](https://twitter.com/iamanish__)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mmm.manish163@gmail.com)](mailto:mmm.manish163@gmail.com)
 
-I'm a Software Engineer with an experience in Backend development. I have almost 2 years of experience in software development where I have worked on various project related to Java, Spring Boot, React and databases like MySQL, MongoDB.
 
 ---
 ## 🛠️ Technologies & Tools
 
 
-#### Backend
+### Backend
 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express Badge](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### Frontend
+### Frontend
 
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-#### Databases
+### Databases
 
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### DevOps
+### DevOps
 
 ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
