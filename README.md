@@ -1,23 +1,14 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">Backend developer who aims to write quality code</h3>
 <img align="right" width="400"  src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Programmer" />
 
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/YourTwitterHandle)](https://twitter.com/YourTwitterHandle)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:yourname@gmail.com)](mailto:yourname@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamanishh/)](https://www.linkedin.com/in/iamanishh/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamanish__)](https://twitter.com/iamanish__)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mmm.manish163@gmail.com)](mailto:mmm.manish163@gmail.com)
 
-Welcome to my GitHub profile! I'm a Software Engineer with an experience in Backend development. I have almost 2 years of experience in software development where I have worked on various project related to Spring Boot, 
-
----
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning **[Technology/Skill]**
-- 💬 Ask me about **[Java, Spring Boot, JavaScript, React, Relational Databases]**
-- 📫 How to reach me: [yourname@gmail.com](mailto:mmm.manish163@gmail.com)
+I'm a Software Engineer with an experience in Backend development. I have almost 2 years of experience in software development where I have worked on various project related to Java, Spring Boot, React and databases like MySQL, MongoDB.
 
 ---
 ## 🛠️ Technologies & Tools
