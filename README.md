@@ -3,7 +3,7 @@
 
 
 
-I’m a Backend Software Engineer with nearly two years of experience. I’ve developed a variety of projects using Java, Spring Boot, React, and databases like MySQL and MongoDB. I enjoy solving complex problems and building efficient solutions.
+I’m a Software Engineer with nearly two years of experience in **backend development**. I’ve developed a variety of projects using **Java, Spring Boot, React**, and databases like **MySQL and MongoDB.** I enjoy solving complex problems and building efficient solutions.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamanishh/)](https://www.linkedin.com/in/iamanishh/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/iamanish__)](https://twitter.com/iamanish__)
@@ -18,7 +18,7 @@ I’m a Backend Software Engineer with nearly two years of experience. I’ve de
 
 - 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1ubV_0Si09YphBuVMlmEpE4RoVNqHnqMA/view?usp=sharing)
 
-- ⚡ Fun fact **I think I have a good sense of design **
+- ⚡ Fun fact  **I think I have a good sense of design**
 
 
 
