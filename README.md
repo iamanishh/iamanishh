@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<img align="right" width="400"  src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Programmer" />
+<!-- <img align="right" width="400"  src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg" alt="Programmer" /> -->
 
 
 
@@ -68,14 +68,7 @@ I'm a Software Engineer with an experience in Backend development. I have almost
 
 ---
 
-## 📬 Get in Touch
 
-- Email: [yourname@gmail.com](mailto:yourname@gmail.com)
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
----
-
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Manish Kumar](https://github.com/iamanishh)
 
 
