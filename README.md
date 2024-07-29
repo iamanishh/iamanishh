@@ -10,6 +10,16 @@ I'm a Software Engineer with an experience in Backend development. I have almost
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mmm.manish163@gmail.com)](mailto:mmm.manish163@gmail.com)
 
 
+- 🌱 I’m currently learning **TypeScript**
+
+- 💬 Ask me about **Java, Spring Boot, JavaScript, React**
+
+- 📫 How to reach me **mmm.manish163@gmail.com**
+
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1ubV_0Si09YphBuVMlmEpE4RoVNqHnqMA/view?usp=sharing)
+
+- ⚡ Fun fact **I think I have a good sense of design **
+
 ---
 ## 🛠️ Technologies & Tools
 
