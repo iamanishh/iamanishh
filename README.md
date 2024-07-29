@@ -25,7 +25,7 @@ I’m a Backend Software Engineer with nearly two years of experience. I’ve de
 ---
 ## 🛠️ Technologies & Tools
 <div style="margin-bottom: 20px;">
-  <h3>Languages and Libraries</h3>
+  <h3>Programming and Scripting Langauges</h3>
   <span>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
