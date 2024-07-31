@@ -16,8 +16,6 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
 
 - 📫 How to reach me **mmm.manish163@gmail.com**
 
-- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1ubV_0Si09YphBuVMlmEpE4RoVNqHnqMA/view?usp=sharing)
-
 - ⚡ Fun fact  **I think I have a good sense of design**
 
 
