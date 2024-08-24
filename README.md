@@ -25,12 +25,13 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
 <div style="margin-bottom: 20px;">
   <h3>Programming and Scripting Langauges</h3>
   <span>
-  ![Java](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/64px-Java_programming_language_logo.svg.png)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/64px-JavaScript-logo.png)
-![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/64px-ISO_C%2B%2B_Logo.svg.png)
-![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/64px-C_Logo.png)
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/64px-HTML5_logo_and_wordmark.svg.png)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/64px-CSS3_logo.svg.png)
+ (https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+(https://img.icons8.com/color/48/000000/javascript.png)
+(https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+(https://img.icons8.com/color/48/000000/c-programming.png)
+(https://img.icons8.com/color/48/000000/html-5.png)
+(https://img.icons8.com/color/48/000000/css3.png)
+
 
   </span>
 </div>
