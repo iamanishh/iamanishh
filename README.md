@@ -23,19 +23,17 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
 ---
 ## 🛠️ Technologies & Tools
 <div style="margin-bottom: 20px;">
-  <h3>Programming and Scripting Langauges</h3>
-  <span>
- ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-
-
-
-  </span>
+  <h3>Programming and Scripting Languages</h3>
+  <div style="display: flex; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="width: 50px; height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 50px; height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 50px; height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" style="width: 50px; height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" style="width: 50px; height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="width: 50px; height: 50px;">
+  </div>
 </div>
+
 
 <div style="margin-bottom: 20px;">
   <h3>Libraries and Frameworks</h3>
