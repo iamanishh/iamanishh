@@ -37,15 +37,16 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
 
 <div style="margin-bottom: 20px;">
   <h3>Libraries and Frameworks</h3>
-  <span>
-    <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge"/>
-    <img src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security Badge"/>
-    <img src="https://img.shields.io/badge/Hibernate-%2325AEB1.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Badge"/>
-    <img src="https://img.shields.io/badge/Microservices-%236DB33F.svg?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices Badge"/>
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
-  </span>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" style="height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" alt="Spring Boot" style="height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" style="height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" style="height: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microservices/microservices-original.svg" alt="Microservices" style="height: 50px;">
+  </div>
 </div>
+
 
 <div style="margin-bottom: 20px;">
   <h3>Databases</h3>
