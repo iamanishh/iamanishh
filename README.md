@@ -25,12 +25,12 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
 <div style="margin-bottom: 20px;">
   <h3>Programming and Scripting Langauges</h3>
   <span>
-   ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-   ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-   ![C](https://img.icons8.com/color/48/000000/c-programming.png)
-   ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-   ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+   [Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+   [JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+   [C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+   [C](https://img.icons8.com/color/48/000000/c-programming.png)
+   [HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+   [CSS3](https://img.icons8.com/color/48/000000/css3.png)
   </span>
 </div>
 
