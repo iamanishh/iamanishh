@@ -27,9 +27,9 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" style="width: 40px; height: 40px;">
-     <img src="https://img.icons8.com/external-outline-juicy-fish/64/000000/external-microservices-cloud-computing-outline-outline-juicy-fish.png" alt="Microservices" style="width: 40px; height: 40px;">
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-api-website-design-and-development-flatart-icons-outline-flatarticons.png" alt="API" style="width: 40px; height: 40px;">
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-architecture-engineering-and-construction-flatart-icons-outline-flatarticons.png" alt="HLD" style="width: 40px; height: 40px;">
+     <img src="https://icons8.com/icon/90519/spring-boot" alt="Microservices" style="width: 40px; height: 40px;">
+    <img src="https://icons8.com/icon/90519/spring-boot" alt="API" style="width: 40px; height: 40px;">
+ 
     <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-diagram-strategy-flatart-icons-outline-flatarticons.png" alt="LLD" style="width: 40px; height: 40px;">
   </div>
 </div>
