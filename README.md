@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
-<img align="right" width="400"  src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Programmer" />
+<img align="center" width="50%"  src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Programmer" />
 
 
 
@@ -23,7 +23,7 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
 
 <div style="margin-bottom: 20px;">
   <h3>Backend tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,sql,mysql,mongodb,redis,kafka,aws,docker,kubernetes,"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,mysql,mongodb,redis,kafka,aws,docker,kubernetes,"/>
 </div>
 
 
