@@ -22,21 +22,8 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,react,redux,html,css"/>
 
 <div style="margin-bottom: 20px;">
-  <h3>Backend Technologies</h3>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" style="width: 40px; height: 40px;">
-     <img src="https://icons8.com/icon/90519/spring-boot" alt="Microservices" style="width: 40px; height: 40px;">
-    <img src="https://icons8.com/icon/90519/spring-boot" alt="API" style="width: 40px; height: 40px;">
- 
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-diagram-strategy-flatart-icons-outline-flatarticons.png" alt="LLD" style="width: 40px; height: 40px;">
-  </div>
-</div>
-
-<div style="margin-bottom: 20px;">
-  <h3>Tools and Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,kubernetes"/>
+  <h3>Backend tools & Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,sql,mysql,mongodb,redis,kafka,aws,docker,kubernetes,"/>
 </div>
 
 
