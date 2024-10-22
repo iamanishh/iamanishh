@@ -19,17 +19,7 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
 ## 🛠️ TECKSTACK
 <div style="margin-bottom: 20px;">
   <h3>Languages/Libraries/Frameworks</h3>
- <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,nextjs,docker,aws,html,css,bootstrap,tailwind,jquery,java,firebase,git,github"/>
-  <div style="display: flex; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="width: 40px; height: 40px;">>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="width: 40px; height: 40px;">
-  </div>
-</div>
+ <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javasvcript,react,redux,html,css"/>
 
 <div style="margin-bottom: 20px;">
   <h3>Backend Technologies</h3>
