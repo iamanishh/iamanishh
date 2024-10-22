@@ -19,7 +19,7 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
 ## 🛠️ TECKSTACK
 <div style="margin-bottom: 20px;">
   <h3>Languages/Libraries/Frameworks</h3>
- <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javasvcript,react,redux,html,css"/>
+ <img src="https://skillicons.dev/icons?i=java,spring,hibernate,javascript,react,redux,html,css"/>
 
 <div style="margin-bottom: 20px;">
   <h3>Backend Technologies</h3>
@@ -27,19 +27,16 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" style="width: 40px; height: 40px;">
+     <img src="https://img.icons8.com/external-outline-juicy-fish/64/000000/external-microservices-cloud-computing-outline-outline-juicy-fish.png" alt="Microservices" style="width: 40px; height: 40px;">
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-api-website-design-and-development-flatart-icons-outline-flatarticons.png" alt="API" style="width: 40px; height: 40px;">
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-architecture-engineering-and-construction-flatart-icons-outline-flatarticons.png" alt="HLD" style="width: 40px; height: 40px;">
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-diagram-strategy-flatart-icons-outline-flatarticons.png" alt="LLD" style="width: 40px; height: 40px;">
   </div>
 </div>
 
 <div style="margin-bottom: 20px;">
   <h3>Tools and Technologies</h3>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" style="width: 40px; height: 40px;">
-  </div>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,kubernetes"/>
 </div>
 
 
