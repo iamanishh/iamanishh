@@ -21,7 +21,7 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
   <h3>Languages/Libraries/Frameworks</h3>
   <div style="display: flex; gap: 10px;">
    
-    <img src=" https://skillicons.dev/icons?i=js,html,css">
+    <img src="https://skillicons.dev/icons?i=js,html,css">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" style="width: 40px; height: 40px;">
