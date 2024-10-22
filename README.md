@@ -10,26 +10,23 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:mmm.manish163@gmail.com)](mailto:mmm.manish163@gmail.com)
 
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 💬 Ask me about **Java, Spring Boot, JavaScript, React**
-
-- 📫 How to reach me **mmm.manish163@gmail.com**
-
-- ⚡ Fun fact  **I think I have a good sense of design**
-
+- 🌱 I’m currently learning **System Design**
+- 💬 Ask me about **Java, Spring Boot, React**
+- 🎨 Enthusiastic about backend technologies.
 
 
 ---
-## 🛠️ Technologies & Tools
+## 🛠️ TECKSTACK
 <div style="margin-bottom: 20px;">
-  <h3>Languages and Libraries</h3>
+  <h3>Languages/Libraries/Frameworks</h3>
   <div style="display: flex; gap: 10px;">
+   
+    <img src=" https://skillicons.dev/icons?i=js,html,css">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="width: 40px; height: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" style="width: 40px; height: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" style="width: 40px; height: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="width: 40px; height: 40px;">>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" style="width: 40px; height: 40px;">
   </div>
@@ -38,9 +35,6 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
 <div style="margin-bottom: 20px;">
   <h3>Backend Technologies</h3>
   <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" style="width: 40px; height: 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 40px; height: 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" style="width: 40px; height: 40px;">
@@ -58,19 +52,6 @@ I’m a Software Engineer with nearly two years of experience in **backend devel
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" style="width: 40px; height: 40px;">
   </div>
 </div>
-
-
-
-
-
----
-
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 
 ## 💼 Projects
